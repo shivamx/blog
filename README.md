@@ -1,2 +1,2 @@
 
-This repository if for blog
+This repository is for blog
