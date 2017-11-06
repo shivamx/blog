@@ -1,4 +1,2 @@
 
-
-
-This repository if for 
+This repository if for blog
